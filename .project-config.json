@@ -1,0 +1,34 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/U2KsAqVXH8zquQRDU4nQdB.git",
+    "expiration": "2026-09-01T19:46:00.490Z",
+    "token": "art_v2_x_a8a5d0d7b285e04971599979dc5176a1b66b9c0a?expires=1788291960",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "arwa-portfolio",
+  "path": "/home/ubuntu/arwa-portfolio",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "We8S4RCXVtE5nPYMbJYd5X",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "4UnuX6wLKRExznCGbrmrhs",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Arwa Ahmed",
+    "OWNER_OPEN_ID": "ZqoNMQX9K5B79Xu72Wox9u",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "1cee6399-edb4-4255-af81-2125e81cdc3f",
+    "VITE_APP_ID": "U2KsAqVXH8zquQRDU4nQdB",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Arwa Ahmed Haider — Frontend Developer Portfolio",
+    "VITE_FRONTEND_FORGE_API_KEY": "UqXqFaGkBxqgHEFzb2HNha",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
